@@ -3,7 +3,11 @@
 	<link rel="stylesheet" type="text/css" href="test.css">
 </head>
 <body>
-	<h1>Hello World!</h1>
+<<<<<<< HEAD
+	<h1>Ang ganda ko</h1>
+=======
+	<h1>Dyosa si Reika</h1>
+>>>>>>> ab-1l_shinohara
 	<img src="image.jpg"/>
 	<p> Reika Tamisin Shinohara | 2012-37815 | AB-1L </p>
 </body>
